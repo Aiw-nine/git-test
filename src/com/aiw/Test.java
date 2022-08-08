@@ -6,6 +6,7 @@ public class Test {
         System.out.println("我在IDEA中使用Git");
         System.out.println("Hello Git");
         System.out.println("hot-fix!");
+        System.out.println("master test");
     }
 
 }
