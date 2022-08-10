@@ -11,6 +11,7 @@ public class Test {
         System.out.println("push test!!!");
         System.out.println("pull test!!!");
         System.out.println("today is 0810");
+        System.out.println("天气好热~");
     }
 
 }
